@@ -15,6 +15,7 @@
 		4773819624BF07F4001EA69A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4773819424BF07F4001EA69A /* LaunchScreen.storyboard */; };
 		477381A124BF07F5001EA69A /* ___Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 477381A024BF07F5001EA69A /* ___Tests.swift */; };
 		477381AC24BF07F5001EA69A /* ___UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 477381AB24BF07F5001EA69A /* ___UITests.swift */; };
+		477381BA24BF0C59001EA69A /* photoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 477381B924BF0C59001EA69A /* photoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		477381A724BF07F5001EA69A /* 拍立得UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "拍立得UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		477381AB24BF07F5001EA69A /* ___UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "___UITests.swift"; sourceTree = "<group>"; };
 		477381AD24BF07F5001EA69A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		477381B924BF0C59001EA69A /* photoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = photoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				4773818B24BF07E9001EA69A /* SceneDelegate.swift */,
 				4773818D24BF07E9001EA69A /* ViewController.swift */,
 				4773818F24BF07E9001EA69A /* Main.storyboard */,
+				477381B924BF0C59001EA69A /* photoViewController.swift */,
 				4773819224BF07F4001EA69A /* Assets.xcassets */,
 				4773819424BF07F4001EA69A /* LaunchScreen.storyboard */,
 				4773819724BF07F4001EA69A /* Info.plist */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4773818E24BF07E9001EA69A /* ViewController.swift in Sources */,
+				477381BA24BF0C59001EA69A /* photoViewController.swift in Sources */,
 				4773818A24BF07E9001EA69A /* AppDelegate.swift in Sources */,
 				4773818C24BF07E9001EA69A /* SceneDelegate.swift in Sources */,
 			);
